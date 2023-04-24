@@ -8,8 +8,8 @@ const store = createStore({
     test: '1234'
   },
   getters: {},
-  actions,
-  mutations,
+  action: {},
+  mutations: {},
 }) 
 
 export default store
